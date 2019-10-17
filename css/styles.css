@@ -1,11 +1,17 @@
+html {
+
+}
+
 body {
   margin-top: 30px;
+  background: url("../img/robert-katzki-fyHkeWGOpHM-unsplash.jpg") no-repeat center center fixed;
 }
 
 img {
   width: 100%;
 }
 
-.well {
-  max-height: 150px;
+.jumbotron {
+  background-color: #ff99ff;
+  color: white;
 }
